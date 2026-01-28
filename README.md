@@ -1,2 +1,3 @@
 # Data-Structures-and-Algorithms-Assignments
-Data Structures and Algorithms (DSA) is an elective subject in the BMath Course at ISI Bangalore. In the academic year 2025-26, Professor Kaushik Kumar Majumdar is teaching this subject. I shall be using this repository to submit all the DSA assignments.  
+Data Structures and Algorithms (DSA) is an elective subject in the BMath Course at ISI Bangalore. Prof. Kaushik Kumar Majumdar is handling the course for us. 
+I shall be using the repository to upload the solution to all the assignment problems that Prof. Majumdar asks us to submit. 
